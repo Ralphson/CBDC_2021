@@ -1,7 +1,3 @@
----
-typora-root-url: C:\Users\Administrator\OneDrive\笔记\image
----
-
 # 2021年中国高校大数据挑战赛——A题
 
 > 10月28日早上8点拿到题目——11月1日20点提交
