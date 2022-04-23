@@ -1,6 +1,4 @@
----
-typora-root-url: C:\Users\Administrator\OneDrive\笔记\image
----
+
 
 # 2021年中国高校大数据挑战赛——A题
 
